@@ -1,8 +1,6 @@
 *{
     margin: 0px;
-}
-
-body{
+    padding: 0px;
     font-family: 'ubuntu';
 }
 
@@ -26,24 +24,6 @@ nav ul li a{
     margin-left: 10px;
 }
 
-section{
-    width: 100%;
-    min-height: 300px;
-}
-
-#main-header{
-    margin: 10% 0 0 15%;
-    font-size: 4em;
-    opacity: .5;
-    color: rgb(79, 110, 197);
-    
-}
-
-#about-para{
-    margin: 100px 0 0 20%;
-    width: 700px;
-    font-size: 1.2em;
-}
 
 .foot-info{
     color: rgb(100, 99, 99);
@@ -55,5 +35,4 @@ section{
 footer{
     min-height: 200px;
     background: lightgray;
-    margin-top: 300px;
 }

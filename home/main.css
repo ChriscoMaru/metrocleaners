@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'ubuntu';
+}
+
+nav{
+    height: 50px;
+}
+
+nav ul{
+    padding: 15px 0 0 40px;
+    display: flex;
+}
+
+nav ul li{
+    list-style-type: none;
+}
+
+nav ul li a{
+    font-family: 'ubuntu';
+    text-decoration: none;
+    color: rgb(79, 110, 197);
+    margin-left: 10px;
+}
+
+section{
+    width: 100%;
+    min-height: 800px;
+}
+
+#sect-one{
+    background-image: url('../assets/IMG_6527.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#main-header{
+    font-family: 'ubuntu';
+    font-size: 5em;
+    color: white;
+    padding: 250px 0 0 150px;
+
+}
+
+button{
+    background: rgb(79, 110, 197);
+    width: 150px;
+    height: 40px;
+    margin: 160px 0 0 45%;
+}
+
+button a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+#sub-head-one {
+    color: rgb(79, 110, 197);
+    margin: 150px 0 0 41%;
+    font-family: 'ubuntu';
+    font-size: 1.3em;
+}
+
+.service{
+    display: flex;
+    margin-top: 100px;
+}
+
+.cleaner{
+    margin-left: 100px;
+}
+
+.lorem{
+    width: 500px;
+    margin-left: 250px;
+    color: rgb(105, 105, 105);
+}
+
+.lorem li{
+    margin-top: 20px;
+    font-size: 1.4em;
+}
+
+.foot-info{
+    color: rgb(100, 99, 99);
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+
+footer{
+    min-height: 200px;
+    background: lightgray;
+}

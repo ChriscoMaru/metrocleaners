@@ -43,18 +43,6 @@ section{
 
 }
 
-button{
-    background: rgb(79, 110, 197);
-    width: 150px;
-    height: 40px;
-    margin: 160px 0 0 45%;
-}
-
-button a{
-    color: white;
-    text-decoration: none;
-    font-size: 1.5em;
-}
 
 #sub-head-one {
     color: rgb(79, 110, 197);
@@ -66,6 +54,7 @@ button a{
 .service{
     display: flex;
     margin-top: 100px;
+    margin-left: 20%;
 }
 
 .cleaner{
@@ -74,7 +63,7 @@ button a{
 
 .lorem{
     width: 500px;
-    margin-left: 250px;
+    margin-left: 10%;
     color: rgb(105, 105, 105);
 }
 
@@ -82,6 +71,7 @@ button a{
     margin-top: 20px;
     font-size: 1.4em;
 }
+
 
 .foot-info{
     color: rgb(100, 99, 99);
